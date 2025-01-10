@@ -2,7 +2,20 @@
 
 A collection of slides.
 
+## 2024
+
+* [Simple bug but not easy exploit: Rooting Android devices in one shot](2024/cansecwest2024.pdf)
+  * Conference: Cansecwest 2024
+  * Almost same with (POC 2023), except for MTE
+
 ## 2023
+
+* [Simple bug but not easy exploit: Rooting Android devices in one shot](2023/POC2023_trim.pdf)
+  * Conference: POC 2023
+  * The vendor's specific migitatioin bypass has been removed. Sorry.
+
+* [GPU Accelerated Android rooting](2023/mosec2023.pdf)
+  * Conference: MOSEC 2023
 
 * [Make KSMA Great Again: The Art of Rooting Android devices by GPU MMU features](2023/BHUSA2023.pdf)
   * Conference: BlackHat USA 2023 
