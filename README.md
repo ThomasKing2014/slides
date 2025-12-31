@@ -5,7 +5,8 @@ A collection of slides.
 ## 2025
 
 * [A tale of challenging MTE: Rooting Google Pixel with kernel MTE enabled in one shot](2025/poc2025.pdf)
-
+  * Conference: POC 2025
+    
 ## 2024
 
 * [Simple bug but not easy exploit: Rooting Android devices in one shot](2024/cansecwest2024.pdf)
